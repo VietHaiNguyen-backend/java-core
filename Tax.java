@@ -29,5 +29,6 @@ public class Tax {
                 System.out.println("Sunday");
                 break;
         }
+        scanner.close();
     }
 }
