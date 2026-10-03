@@ -12,6 +12,6 @@ public class Lab2Excercise3 {
         } else {
             System.out.println("So tien dien phai tra la: " + (100 * 1000 + (soDien - 100) * 1500));
         }
+        scanner.close();
     }
-
 }
